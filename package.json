@@ -11,5 +11,11 @@
   ],
   "author": "Cheng <liucheng.tech@outlook.com>",
   "license": "MIT",
-  "homepage": "https://github.com/kimochg/wxml-tags#readme"
+  "homepage": "https://github.com/kimochg/wxml-tags#readme",
+  "files": [
+    "index.js",
+    "void.js",
+    "wxml-tags.json",
+    "wxml-tags-void.json"
+  ]
 }

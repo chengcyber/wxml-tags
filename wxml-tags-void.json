@@ -1,0 +1,22 @@
+[
+  "icon",
+  "progress",
+  "cover-image",
+  "slider",
+  "input",
+  "textarea",
+  "checkbox",
+  "radio",
+  "switch",
+  "image",
+  "audio",
+  "video",
+  "camera",
+  "live-player",
+  "live-pusher",
+  "map",
+  "canvas",
+  "open-data",
+  "web-view",
+  "import"
+]
