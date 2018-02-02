@@ -17,6 +17,15 @@ console.log(wxmlTags)
 // [ 'view', 'scroll-view', ... ]
 ```
 
+void tags
+
+```
+const voidWxmlTags = require('wxml-tags/void');
+
+console.log(voidWxmlTags)
+// ['icon', 'progress', ... ]
+```
+
 ## Test in local
 
 ```
