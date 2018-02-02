@@ -1,0 +1,9 @@
+{
+  "name": "wxml-tags",
+  "version": "1.0.0",
+  "description": "List of standard WXML tags",
+  "main": "index.js",
+  "repository": "https://github.com/kimochg/wxml-tags",
+  "author": "Cheng <liucheng.tech@outlook.com>",
+  "license": "MIT"
+}
