@@ -29,5 +29,8 @@
   "map",
   "canvas",
   "open-data",
-  "web-view"
+  "web-view",
+  "import",
+  "template",
+  "block"
 ]
