@@ -4,6 +4,12 @@
   "description": "List of standard WXML tags",
   "main": "index.js",
   "repository": "https://github.com/kimochg/wxml-tags",
+  "keyword": [
+    "wxml",
+    "wechat",
+    "tags"
+  ],
   "author": "Cheng <liucheng.tech@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/kimochg/wxml-tags#readme"
 }
